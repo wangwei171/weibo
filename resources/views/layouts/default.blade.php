@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>@yield('title','Weibo App')--Laravel</title>
-<link rel="stylesheet" type="text/css" href="/css/app.css">
+<link rel="stylesheet" type="text/css" href="{{ mix('css/app.css') }}">
 </head>
 <body>
 	<nav class="navbar navbar-expend-lg navbar-dark bg-dark">
