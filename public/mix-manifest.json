@@ -1,9 +1,4 @@
 {
-<<<<<<< HEAD
-    "/js/app.js": "/js/app.js",
-    "/css/app.css": "/css/app.css"
-=======
-    "/js/app.js": "/js/app.js?id=4d8db2bb395f94368ae9",
-    "/css/app.css": "/css/app.css?id=d410381cf47e7922ae81"
->>>>>>> filling-layout-style
+    "/js/app.js": "/js/app.js?id=c54711d34a04621d3a1e",
+    "/css/app.css": "/css/app.css?id=f684f1d75caa83a69815"
 }
